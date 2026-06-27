@@ -122,8 +122,5 @@ index universe is a deliberate, honest scope. A custom universe CSV is supported
 - The model omits leverage, cash flow, earnings growth, governance, and forecasts.
 - Yahoo Finance can be delayed or missing and is not exchange-grade.
 
-Read the [complete walkthrough](docs/PROJECT_WALKTHROUGH.md), [interview guide](docs/INTERVIEW_GUIDE.md),
-and [GitHub guide](docs/GITHUB_GUIDE.md).
-
 > Educational analysis only. This is not investment advice.
 
