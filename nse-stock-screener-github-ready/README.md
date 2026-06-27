@@ -93,7 +93,7 @@ python run_screener.py --input-csv analysis_outputs/data/all_stocks.csv
 ## Project structure
 
 ```text
-nse-stock-screener/
+nse-stock-screener-github-ready/
 ├── .github/workflows/tests.yml
 ├── analysis_outputs/              # report, charts, CSV files, Excel workbook
 ├── config/nifty100_snapshot.csv   # official universe snapshot
